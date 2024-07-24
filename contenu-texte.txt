@@ -1,0 +1,106 @@
+ACCUEIL
+
+
+César BISTRUCLA
+
+    Accueil
+    Mon CV
+    Mes créations
+    Biblio.
+    Contact
+
+
+Bienvenu sur cette page.
+
+Ce site web est une réalisation faite en classe dans le cadre du cours de Technologie. 
+Vous y trouverez mes dernières créations, les objets que j'ai modélisés, ainsi que mon CV.
+
+
+Bonne visite !
+
+César B. 
+
+
+
+
+
+
+
+
+
+
+
+Mon CV
+
+César Bistrucla,  designer amateur depuis 2021. 
+
+élève au Lycée, je prépare un baccalauréat
+
+Créateur de modèles 3D sur SketchUp, je dessine également sur différents logiciels.
+Codeur et programmeur pour de petits jeux avec Scratch et mBlock.
+Je publie sous le nom de Totor-design.
+
+
+EPI : Un toit pour la Cathédrale : une flèche en tenségrité
+EPI : Les machines à dessiner avec micro:bit
+Position PIX : Niveau 697
+DNB : brevet des collèges optenu avec mention
+EVAlangues : niveau 4 en Anglais 
+ASSR : code de la route niveau 1 et 2
+
+Stage en entreprise : FG Wilson, EDF, ArchiCAD
+Langues vivantes : Anglais courant, des notions d'Espagnol
+Orientation : Sciences et Techniques, programmation, design
+Sport : je pratique la pétanque chorégraphique en club, niveau classé en régional 1
+
+
+https://app.sketchup.com/
+
+http://planet.mblock.cc/
+
+
+
+
+
+
+
+
+Mes créations design
+
+Voici  ma dernière modélisation - création design
+
+C'est une Clé USB, imprimable en 3D, composé de 4 pièces en plastique PLA.
+Elles sont imprimées en 3D avec deux couleurs pour obtenir un contraste.
+Le circuit électronique USB s'insère ensuite lors de l'assemblage. 
+Un cordon s'enfile dans les perçages latéraux pour retenir le capuchon.
+https://app.sketchup.com/share...
+
+Vous trouverez dans le diaporama ci-dessous, mes fabrications et créations originales.
+Mise à jour : juillet 2024.
+
+
+
+
+
+BIBLIO - Outils - Remerciements
+
+Ce site web est réalisé en HTML 5 et CSS 3
+à l'aide du logiciel gratuit BlueGriffon 3.1
+- Les illustrations sont des créations originales, réalisées à l'aide de Canvas.com, pixlr.com et du logiciel gratuit Paint.NET
+- Les images 3D et modélisations sont réalisées avec SketchUp make 2017
+- L'hébergement du site est réalisée dans un WordPress installé chez LWS
+
+Un grand merci à mes professeurs sans lesquels le projet n'aurait pas abouti.
+
+
+
+
+
+CONTACT
+
+César Bistrucla
+contact@totor-design.fr
+75015 Paris - France
+http://totor-design.free.fr
+
+
